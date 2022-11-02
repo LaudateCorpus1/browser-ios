@@ -28,7 +28,7 @@
     "@cliqz/indexeddbshim": "^4.1.2",
     "@cliqz/url-parser": "^1.0.2",
     "@react-native-community/async-storage": "^1.6.1",
-    "appium": "1.9.0",
+    "appium": "1.22.3",
     "browser-core": "https://s3.amazonaws.com/cdncliqz/update/edge/cliqz-ios/master/1.38.0.1b131.7bdc200.tgz",
     "browser-core-cliqz-ios": "https://s3.amazonaws.com/cdncliqz/update/edge/cliqz-ios/v3.39/3.39.0.7d846ee.tgz",
     "browser-core-lumen-ios": "https://s3.amazonaws.com/cdncliqz/update/edge/lumen-ios/v3.39/13.39.0.7d846ee.tgz",
